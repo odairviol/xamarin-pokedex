@@ -1,0 +1,13 @@
+/Users/pos/Projects/pokedex/pokedex/bin/Debug/netstandard2.0/pokedex.deps.json
+/Users/pos/Projects/pokedex/pokedex/bin/Debug/netstandard2.0/pokedex.dll
+/Users/pos/Projects/pokedex/pokedex/bin/Debug/netstandard2.0/pokedex.pdb
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/pokedex.csprojAssemblyReference.cache
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/pokedex.csproj.CoreCompileInputs.cache
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/pokedex.AssemblyInfoInputs.cache
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/pokedex.AssemblyInfo.cs
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/pokedex.dll
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/pokedex.pdb
+/Users/pos/Projects/pokedex/pokedex/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
